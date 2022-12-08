@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 05 Dec 2022 21:19:47 at https://danfoss-drives.com.ua +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://danfoss-drives.com.ua -O1 "G:\Code\tracker\test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:19:56	Error: 	"Not Found" (404) at link https://danfoss-drives.com.ua/wp-content/themes/technosence/logo_small.png (from https://danfoss-drives.com.ua/)
+21:20:03	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://danfoss-drives.com.ua/)
+21:20:03	Error: 	"Not Found" (404) at link https://danfoss-drives.com.ua/wp-content/themes/technosence/fonts/erdana-Bold.eot (from https://danfoss-drives.com.ua/wp-content/themes/technosence/css/style.css)
+21:20:05	Error: 	"Not Found" (404) at link https://danfoss-drives.com.ua/wp-content/themes/technosence/images/bg_toch.png (from https://danfoss-drives.com.ua/wp-content/themes/technosence/css/style.css)
+21:20:06	Warning: 	Warning: store application/octet-stream without scan: G:/Code/tracker/test/danfoss-drives.com.ua/wp-content/themes/technosence/images/logo_push-k.svg
+21:20:06	Error: 	"Not Found" (404) at link https://danfoss-drives.com.ua/wp-content/themes/technosence/shape/giItT1WQy@!-/ (from https://danfoss-drives.com.ua/wp-content/themes/technosence/shape/pdf.html)
+21:20:06	Error: 	"Not Found" (404) at link https://danfoss-drives.com.ua/wp-content/themes/technosence/shape/images/ (from https://danfoss-drives.com.ua/wp-content/themes/technosence/shape/pdf.html)
+21:20:06	Error: 	"Not Found" (404) at link https://danfoss-drives.com.ua/wp-content/themes/technosence/shape/GET (from https://danfoss-drives.com.ua/wp-content/themes/technosence/shape/pdf.html)
+21:20:06	Error: 	"Not Found" (404) at link https://danfoss-drives.com.ua/wp-content/themes/technosence/images/663AC99E.jpg (from https://danfoss-drives.com.ua/wp-content/themes/technosence/images/logo_danfoss.svg)
+21:20:06	Error: 	"Not Found" (404) at link https://danfoss-drives.com.ua/wp-content/themes/technosence/images/663AC9A2.jpg (from https://danfoss-drives.com.ua/wp-content/themes/technosence/images/logo_danfoss.svg)
+21:20:06	Error: 	"Not Found" (404) at link https://danfoss-drives.com.ua/wp-content/themes/technosence/images/663AC9A5.jpg (from https://danfoss-drives.com.ua/wp-content/themes/technosence/images/logo_danfoss.svg)
+21:20:06	Error: 	"Not Found" (404) at link https://danfoss-drives.com.ua/wp-content/themes/technosence/images/663AC9A6.jpg (from https://danfoss-drives.com.ua/wp-content/themes/technosence/images/logo_danfoss.svg)
+21:20:06	Error: 	"Not Found" (404) at link https://danfoss-drives.com.ua/wp-content/themes/technosence/images/663AC9A4.jpg (from https://danfoss-drives.com.ua/wp-content/themes/technosence/images/logo_danfoss.svg)
+21:20:06	Error: 	"Not Found" (404) at link https://danfoss-drives.com.ua/wp-content/themes/technosence/images/663AC9A3.jpg (from https://danfoss-drives.com.ua/wp-content/themes/technosence/images/logo_danfoss.svg)
+21:20:06	Error: 	"Not Found" (404) at link https://danfoss-drives.com.ua/wp-content/themes/technosence/images/663AC9AD.jpg (from https://danfoss-drives.com.ua/wp-content/themes/technosence/images/logo_danfoss.svg)
+21:20:06	Error: 	"Not Found" (404) at link https://danfoss-drives.com.ua/wp-content/themes/technosence/images/663AC9AE.jpg (from https://danfoss-drives.com.ua/wp-content/themes/technosence/images/logo_danfoss.svg)
+21:20:06	Error: 	"Not Found" (404) at link https://danfoss-drives.com.ua/wp-content/themes/technosence/images/9DCC5872.jpg (from https://danfoss-drives.com.ua/wp-content/themes/technosence/images/logo_techosens.svg)
+21:20:06	Error: 	"Not Found" (404) at link https://danfoss-drives.com.ua/wp-content/themes/technosence/images/9DCC5871.jpg (from https://danfoss-drives.com.ua/wp-content/themes/technosence/images/logo_techosens_f.svg)
+
+HTTrack Website Copier/3.49-2 mirror complete in 19 seconds : 73 links scanned, 55 files written (2693545 bytes overall) [1949667 bytes received at 102614 bytes/sec], 2336960 bytes transferred using HTTP compression in 60 files, ratio 63%, 14.6 requests per connection
+(17 errors, 1 warnings, 0 messages)
